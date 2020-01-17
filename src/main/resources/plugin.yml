@@ -1,5 +1,5 @@
 name: AutoOppPlugin
 version: 1.0
 author: Philipp Moll
-main: at.aau.itec.minecraft.servermigrationplugin.Main
+main: at.aau.itec.minecraft.autooppplugin.Main
 api-version: 1.12.2
